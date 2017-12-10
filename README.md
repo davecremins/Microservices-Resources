@@ -32,6 +32,8 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
  - [Circuit Breaker Pattern](https://martinfowler.com/bliki/CircuitBreaker.html)
 
 ## Systems & Tools
- - Coming soon...
+ - [OpenWhisk](https://medium.com/openwhisk/uncovering-the-magic-how-serverless-platforms-really-work-3cb127b05f71)
+ - [Apache Kafka](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
+ - More coming soon...
  
  [logo]: http://blogs.bmc.com/wp-content/uploads/2017/04/GettyImages-533208865.jpg
