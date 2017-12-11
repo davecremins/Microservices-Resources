@@ -49,6 +49,7 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
  - [Traefik](https://traefik.io/)
  - [New Relic](https://newrelic.com/)
  - [Etcd](https://coreos.com/etcd/)
+ - [Envoy](https://www.envoyproxy.io/)
 
 ## Cloud Infrastructure
  - [Amazon Web Services](https://aws.amazon.com/)
