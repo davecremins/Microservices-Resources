@@ -19,6 +19,7 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
  - [Microservices](http://microservices.io/)
  - [A sidecar for your service mesh](https://abhishek-tiwari.com/a-sidecar-for-your-service-mesh/)
  - [Airbnb’s 10 Takeaways from Moving to Microservices](https://thenewstack.io/airbnbs-10-takeaways-moving-microservices/)
+ - [Microservice Architecture Best Practises](http://codingsans.com/blog/microservice-architecture-best-practices)
  
 ## Architectural Patterns
  - [Event-Driven Microservices](http://shop.oreilly.com/product/0636920047551.do)
@@ -30,10 +31,30 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
  - [Strangler Pattern](https://www.ibm.com/developerworks/cloud/library/cl-strangler-application-pattern-microservices-apps-trs/index.html)
  - [Sidecar Pattern](https://docs.microsoft.com/en-gb/azure/architecture/patterns/sidecar)
  - [Circuit Breaker Pattern](https://martinfowler.com/bliki/CircuitBreaker.html)
+ - [ESB - Enterprise Service Bus](https://www.service-architecture.com/articles/web-services/enterprise_service_bus_esb.html)
+ - [API Gateway](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
 
 ## Systems & Tools
+ - [Docker](https://www.docker.com/what-docker)
+ - [Docker Swarm](https://docs.docker.com/engine/swarm/key-concepts/)
+ - [Kubernetes](https://kubernetes.io/)
+ - [Prometheus](https://prometheus.io/)
+ - [Consul](https://www.consul.io/)
  - [OpenWhisk](https://medium.com/openwhisk/uncovering-the-magic-how-serverless-platforms-really-work-3cb127b05f71)
  - [Apache Kafka](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
- - More coming soon...
+ - [LinkerD](https://linkerd.io/)
+ - [Istio](https://istio.io/)
+ - [Nginx](https://www.nginx.com/)
+ - [DataDog](https://www.datadoghq.com/)
+ - [Traefik](https://traefik.io/)
+ - [New Relic](https://newrelic.com/)
+ - [Etcd](https://coreos.com/etcd/)
+
+## Cloud Infrastructure
+ - [Amazon Web Services](https://aws.amazon.com/)
+ - [Google Cloud Platform](https://cloud.google.com/)
+ - [Microsoft Azure](https://azure.microsoft.com/en-gb/)
+ - [OpenStack](https://www.openstack.org/)
+ - [IBM Cloud](https://www.ibm.com/cloud/)
  
  [logo]: http://blogs.bmc.com/wp-content/uploads/2017/04/GettyImages-533208865.jpg
