@@ -12,6 +12,7 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
  - [WIX: Journey from Monolith to Microservices & DevOps](https://www.youtube.com/watch?v=jeMNaKIrsu8&t=12s)
  - [What I Wish I Had Known Before Scaling Uber to 1000 Services](https://www.youtube.com/watch?v=kb-m2fasdDY&t=13s)
  - [Airbnb, From Monolith to Microservices: How to Scale Your Architecture](https://www.youtube.com/watch?v=N1BWMW9NEQc)
+ - [Lyft's Envoy: From Monolith to Service Mesh](https://youtu.be/RVZX4CwKhGE?list=WL)
  
 ## Articles, Blogs & Sites
  - [What is Microservices Architecture](https://smartbear.com/learn/api-design/what-are-microservices/)
