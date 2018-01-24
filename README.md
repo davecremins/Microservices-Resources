@@ -49,6 +49,7 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
  - [DataDog](https://www.datadoghq.com/)
  - [Traefik](https://traefik.io/)
  - [New Relic](https://newrelic.com/)
+ - [sumologic](https://www.sumologic.com/)
  - [Etcd](https://coreos.com/etcd/)
  - [Envoy](https://www.envoyproxy.io/)
  - [Conduit](https://github.com/runconduit/conduit)
