@@ -62,5 +62,6 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
 
 ## Podcasts
  - [Software Engineering Daily - Cloud Engineering](https://softwareengineeringdaily.com/category/cloud-engineering/)
+ - [Building Microservices](https://www.oreilly.com/ideas/sam-newman-on-building-microservices)
  
  [logo]: http://blogs.bmc.com/wp-content/uploads/2017/04/GettyImages-533208865.jpg
