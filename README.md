@@ -51,6 +51,7 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
  - [New Relic](https://newrelic.com/)
  - [Etcd](https://coreos.com/etcd/)
  - [Envoy](https://www.envoyproxy.io/)
+ - [Conduit](https://github.com/runconduit/conduit)
 
 ## Cloud Infrastructure
  - [Amazon Web Services](https://aws.amazon.com/)
@@ -58,5 +59,7 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
  - [Microsoft Azure](https://azure.microsoft.com/en-gb/)
  - [OpenStack](https://www.openstack.org/)
  - [IBM Cloud](https://www.ibm.com/cloud/)
- 
+
+## Podcasts
+ - [Software Engineering Daily - Cloud Engineering](https://softwareengineeringdaily.com/category/cloud-engineering/)
  [logo]: http://blogs.bmc.com/wp-content/uploads/2017/04/GettyImages-533208865.jpg
