@@ -21,6 +21,7 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
  - [A sidecar for your service mesh](https://abhishek-tiwari.com/a-sidecar-for-your-service-mesh/)
  - [Airbnb’s 10 Takeaways from Moving to Microservices](https://thenewstack.io/airbnbs-10-takeaways-moving-microservices/)
  - [Microservice Architecture Best Practises](http://codingsans.com/blog/microservice-architecture-best-practices)
+ - [Blog series: Low risk monolith to microservice evolution](http://blog.christianposta.com/microservices/low-risk-monolith-to-microservice-evolution/)
  
 ## Architectural Patterns
  - [Event-Driven Microservices](http://shop.oreilly.com/product/0636920047551.do)
