@@ -48,6 +48,7 @@ Links to excellent videos, articles, blogs, etc. on microservices architecture
  - [LinkerD](https://linkerd.io/)
  - [Istio](https://istio.io/)
  - [Nginx](https://www.nginx.com/)
+ - [Dynatrace](https://www.dynatrace.com/solutions/microservices-and-container-monitoring/)
  - [DataDog](https://www.datadoghq.com/)
  - [Traefik](https://traefik.io/)
  - [New Relic](https://newrelic.com/)
